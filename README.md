@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esta é uma solução para o [desafio de componente de cartão de visualização NFT no Frontend Mentor](https://www.front//or.io/challenges/nft-preview-card-component-SbdUL_w0U).
+Esta é uma solução para o [desafio de componente de cartão de visualização NFT no Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
 
 ## 🔖 Layout
