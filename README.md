@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Cap America" title="Capitao America" src="./captura.png" width="250px" />
+  <img alt="NFT" title="NFT" src="https://i.ibb.co/JqBQYDn/mobile-design.jpg width="250px" />
 </h1>
 
 
